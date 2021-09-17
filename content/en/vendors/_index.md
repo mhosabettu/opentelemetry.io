@@ -18,6 +18,7 @@ weight: 50
 | Company | Distribution | Native OTLP | Reference |
 | ------- | ------------ | ----------- | --------- |
 | AWS     | Yes          | No          | https://aws-otel.github.io/ |
+| Appdynamics | Yes | Yes | https://docs.appdynamics.com/21.9/en/application-monitoring/ingest-opentelemetry-trace-data |
 | Dynatrace | Yes        | Yes         | https://www.dynatrace.com/support/help/how-to-use-dynatrace/transactions-and-services/service-monitoring-settings/opentelemetry/ |
 | Elastic | Yes          | Yes         | https://www.elastic.co/guide/en/apm/get-started/current/open-telemetry-elastic.html |
 | F5      | No           | Yes         | https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter/f5cloudexporter |
